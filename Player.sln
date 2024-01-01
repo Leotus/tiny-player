@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Player", "Player.vcxproj", "{0984917B-5009-3ADE-B951-0378C0511465}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0984917B-5009-3ADE-B951-0378C0511465}.Debug|x86.ActiveCfg = Debug|Win32
+		{0984917B-5009-3ADE-B951-0378C0511465}.Debug|x86.Build.0 = Debug|Win32
+		{0984917B-5009-3ADE-B951-0378C0511465}.Release|x86.ActiveCfg = Release|Win32
+		{0984917B-5009-3ADE-B951-0378C0511465}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC968B7F-B7B8-40BC-B16A-4DC81E824744}
+	EndGlobalSection
+EndGlobal
